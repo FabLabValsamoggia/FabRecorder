@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SPY_RECORDER-FBV010-rescue)(type Legacy)(uri ${KIPRJMOD}/SPY_RECORDER-FBV010-rescue.lib)(options "")(descr ""))
+  (lib (name CD74HC4050M)(type Legacy)(uri /mnt/Personal/KiCad/Library/CD74HC4050M.lib)(options "")(descr ""))
+)
