@@ -1,6 +1,6 @@
 # FabRecorder
 
-![Gustavo](https://github.com/FabLabValsamoggia/GustavoTheSpaceman/blob/master/gustavo.png)
+![FabSticker](https://github.com/FabLabValsamoggia/FabRecorder/blob/master/sticker-fab.png)
 
 developed with ♥ by FabLab Valsamoggia
 
